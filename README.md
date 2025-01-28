@@ -8,7 +8,7 @@ Este repositório contém um processo de **ETL (Extração, Transformação e Ca
 
 - `ETL_jupyter_pandas.ipynb`: Notebook Jupyter com o processo de ETL detalhado.
 - `ETL_jupyter_pandas.py`: Script Python correspondente ao notebook.
-- Os dados foram extraídos do site Bovespa da série hisotica. [Bovespa](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
+- Os dados foram extraídos do site Bovespa da série histórica. [Bovespa](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
 
 ---
 
